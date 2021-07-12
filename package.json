@@ -14,7 +14,7 @@
   "author": "Reynaldo Moreno <reynaldomoreno173@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js" 
+    "random-msg": "./bin/global.js"
   },
   "preferGlobal": true
 }
